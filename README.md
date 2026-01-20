@@ -2,6 +2,24 @@
 
 Welcome to the CA Monk Blog Application assignment! This project tests your ability to build a modern React application with state management, styling, and component libraries.
 
+## Assignment Overview
+
+This project implements a Blog Application as part of the CA Monk Frontend Developer Intern assignment.
+
+### Tech Stack
+- React + TypeScript
+- TanStack Query (server state management)
+- Tailwind CSS
+- shadcn/ui
+- JSON Server (mock backend)
+
+### Features
+- Fetch and display all blogs
+- View blog details by ID
+- Create a new blog with automatic cache invalidation
+- Loading and error state handling
+- Responsive layout
+
 ## Installation
 
 ### Prerequisites
